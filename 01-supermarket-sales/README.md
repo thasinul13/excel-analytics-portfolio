@@ -31,7 +31,7 @@ Columns: Date, Store, Category, Product, Units Sold, Unit Price ($), Revenue (ca
 | Chatswood | 10 | $1,414.21 |
 
 - **Frozen** is the top category, bringing in about 36% of total revenue.
-- - **Dairy** is close behind with fewer sales – each Dairy sale is worth more on average (about $218 vs about $168 for Frozen), driven by higher-priced cheese.
+- **Dairy** is close behind with fewer sales – each Dairy sale is worth more on average (about $218 vs about $168 for Frozen), driven by higher-priced cheese.
 - **Ryde** earns the most revenue, but because it has the most sales, not larger ones – revenue per sale at Ryde and Lane Cove is about the same (about $171), while Chatswood is lowest (about $141).
 ## Screenshots
 <img width="2541" height="1199" alt="image" src="https://github.com/user-attachments/assets/9c709df8-e8d2-4d93-83f0-f4e156fe1a76" />
